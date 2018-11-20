@@ -1,0 +1,43 @@
+/*
+APS Desenvolvimento de aplicações WEB 
+    Alunos: Allan Wanderley Alves - 2016201683
+            Rafael Osorio - 2010101281
+            Rafael Ferreira de Souza - 2014200413 
+*/
+
+h1,p{
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 14px;
+}
+#link{
+    color: blue;
+    text-decoration: none;
+}
+
+#back{
+    background-color: rgb(222,222,222);
+}
+
+.setGreen{
+   color: green;
+}
+
+.topic{
+    font-size: 18pt;
+    text-align: center;
+}
+
+.mid{
+    box-shadow: 1px 1px 1px 1px grey;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.no-border{
+    border-radius: 0pt;
+}
